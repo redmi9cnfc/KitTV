@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://194.26.229.4/live/lime_epg.xml.gz"
 #EXTM3U url-tvg="http://epg.y666tv.cc/5.xml" x-tvg-url="http://epg.y666tv.cc/5-light.xml"
-#EXTINF:-1 group-title="🧬 LIPKI TV 🧬" tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Всё ТВ",Гуков: 11.07.2025 Год
+#EXTINF:-1 group-title="🧬 LIPKI TV 🧬" tvg-logo="https://i.ibb.co/h1VfZ3NG/moment.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="Всё ТВ",Wink TV
 #EXTVLCOPT:http-user-agent=LIPKITV
 http://s25617.cdn.ngenix.net/mdrm/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="🧬 LIPKI TV 🧬" tvg-id="no_epg" tvg-logo="https://i.postimg.cc/W385fbtH/Screenshot-4.jpg",🔺Сбер 2202 2032 9258 0596🔺
+#EXTINF:-1 group-title="🧬 LIPKI TV 🧬" tvg-id="no_epg" tvg-logo="https://i.postimg.cc/W385fbtH/Screenshot-4.jpg",KinoStop
 https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🖥️ Эфирные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.it999.ru/img/146.png",Первый Канал
 #EXTVLCOPT:http-user-agent="LIPKITV
@@ -9172,7 +9172,6 @@ http://e606de35.ucomist.net/iptv/A8HV7ZACY65UFA/17061/index.m3u8?token=137946825
 #EXTGRP:??Кинозал💵тест💎
 http://e606de35.ucomist.net/iptv/A8HV7ZACY65UFA/18044/index.m3u8?token=137946825
 #EXTINF:0 tvg-rec="0",Liberty Кино Ukr 4K
-#EXTGRP:💶Кинозал💵тест💎
 http://e606de35.ucomist.net/iptv/A8HV7ZACY65UFA/18045/index.m3u8?token=137946825
 http://e606de35.ucomist.net/iptv/A8HV7ZACY65UFA/18046/index.m3u8?token=137946825
 http://e606de35.ucomist.net/iptv/A8HV7ZACY65UFA/18051/index.m3u8?token=137946825
